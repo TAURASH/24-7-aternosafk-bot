@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DESHICRAFT.aternos.me",
-    "port": 36640,
+    "ip": "AlbanglaSMP.aternos.me",
+    "port": 62936,
     "version": "1.20.1",
     "try-creative": false
   },
